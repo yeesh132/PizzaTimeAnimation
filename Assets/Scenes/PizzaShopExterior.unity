@@ -1765,6 +1765,7 @@ PlayableDirector:
   m_ExposedReferences:
     m_References:
     - dc067c04f881f4743bb14f7f9909bf4b: {fileID: 209752095}
+    - 99a3ca8d3d1fe794e922b66853b76d3d: {fileID: 635123897}
     - 0c0c73fbed4dcbd43bc072694dea6ffc: {fileID: 433377709}
     - c4672ade48be1c04f906848bd9c52b76: {fileID: 635123897}
     - c21b6c8c4e03425408165d291d85e404: {fileID: 635123897}
@@ -3066,7 +3067,7 @@ MonoBehaviour:
   m_LookAt: {fileID: 0}
   m_Follow: {fileID: 0}
   m_Lens:
-    FieldOfView: 50
+    FieldOfView: 35
     OrthographicSize: 100
     NearClipPlane: 0.3
     FarClipPlane: 1000
