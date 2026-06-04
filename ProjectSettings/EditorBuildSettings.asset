@@ -6,7 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/Scenes/PizzaShopInt.unity
+    path: Assets/Scenes/PizzaShopExterior.unity
     guid: 99239dc9d37bef94db45b669dacea0cc
   - enabled: 1
     path: Assets/Scenes/City Scene.unity
